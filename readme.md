@@ -24,6 +24,12 @@ pip install -r "req.text"
 - Make sure you are inside the project folder
 
 
+### Running the application
+- Open the folder in the terminal and run the following command to open the application on localhost
+```
+streamlit run app.py
+```
+
 
 <br>
 <br>
